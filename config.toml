@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://hugo-demosite.s3-website.eu-north-1.amazonaws.com'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme= 'PaperMod'
